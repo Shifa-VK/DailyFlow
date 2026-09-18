@@ -66,7 +66,8 @@ Open the project in Android Studio and let Gradle sync.
 
 Then select an emulator or connected Android device and click **Run**.
 
-## Screenshots
+## Screenshot
+<img width="1080" height="2400" alt="Screenshot_20260918_233925" src="https://github.com/user-attachments/assets/58a4da70-eb0d-4ed4-a326-dc3f474be25a" />
 
 
 
